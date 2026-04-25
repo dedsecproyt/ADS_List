@@ -1,0 +1,239 @@
+# --- Amazon
+127.0.0.1 adtago.s3.amazonaws.com
+127.0.0.1 analyticsengine.s3.amazonaws.com
+127.0.0.1 analytics.s3.amazonaws.com
+127.0.0.1 advice-ads.s3.amazonaws.com
+127.0.0.1 advertising-api-eu.amazon.com
+
+# --- Google Ads
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 adservice.google.com
+127.0.0.1 pagead2.googleadservices.com
+127.0.0.1 afs.googlesyndication.com
+
+# --- Doubleclick.net
+127.0.0.1 stats.g.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 142.251.98.149
+127.0.0.1 static.doubleclick.net
+127.0.0.1 m.doubleclick.net
+127.0.0.1 mediavisor.doubleclick.net
+
+# --- Adcolony
+127.0.0.1 ads30.adcolony.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 wd.adcolony.com
+
+# --- Media.net
+127.0.0.1 static.media.net
+127.0.0.1 media.net
+127.0.0.1 adservetx.media.net
+
+
+#========= Analytics ==========
+
+# --- Google Analytics
+127.0.0.1 app-measurement.com
+127.0.0.1 analytics.google.com
+127.0.0.1 click.googleanalytics.com
+127.0.0.1 google-analytics.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 ssl.google-analytics.com
+
+# --- Hotjar
+127.0.0.1 adm.hotjar.com
+127.0.0.1 identify.hotjar.com
+127.0.0.1 insights.hotjar.com
+127.0.0.1 script.hotjar.com
+127.0.0.1 surveys.hotjar.com
+127.0.0.1 careers.hotjar.com
+127.0.0.1 events.hotjar.io
+
+# --- MouseFlow
+127.0.0.1 mouseflow.com
+127.0.0.1 api.mouseflow.com
+127.0.0.1 tools.mouseflow.com
+127.0.0.1 cdn-test.mouseflow.com
+127.0.0.1 o2.mouseflow.com
+
+# --- FreshWorks
+127.0.0.1 freshmarketer.com
+127.0.0.1 claritybt.freshmarketer.com
+127.0.0.1 fwtracks.freshmarketer.com
+
+# --- Luckyorange
+127.0.0.1 luckyorange.com
+127.0.0.1 api.luckyorange.com
+127.0.0.1 realtime.luckyorange.com
+127.0.0.1 cdn.luckyorange.com
+127.0.0.1 w1.luckyorange.com
+127.0.0.1 upload.luckyorange.net
+127.0.0.1 cs.luckyorange.net
+127.0.0.1 settings.luckyorange.net
+
+# --- Stats WP Plugin
+127.0.0.1 stats.wp.com
+
+# --- Optional
+127.0.0.1 analytics.adobe.io
+127.0.0.1 static.hotjar.com
+127.0.0.1 api.mixpanel.com
+127.0.0.1 api-js.mixpanel.com
+127.0.0.1 permutive.com
+127.0.0.1 cdn.permutive.com
+127.0.0.1 pippio.com
+127.0.0.1 id5-sync.com
+127.0.0.1 prod.uidapi.com
+127.0.0.1 app.appsflyer.com
+127.0.0.1 app.adjust.com
+127.0.0.1 greatis.com
+127.0.0.1 crypto-loot.org
+127.0.0.1 connect.facebook.net
+127.0.0.1 graph.instagram.com
+127.0.0.1 i.instagram.com
+127.0.0.1 static.ads-twitter.com
+127.0.0.1 ads.x.com
+127.0.0.1 px.srvcs.tumblr.com
+127.0.0.1 data.ads.oppomobile.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 tracking.miui.com
+127.0.0.1 smetrics.samsung.com
+127.0.0.1 consent.cookiebot.com
+127.0.0.1 cdn.privacy-mgmt.com
+127.0.0.1 ad.linksynergy.com
+127.0.0.1 www.awin1.com
+127.0.0.1 api.impact.com
+127.0.0.1 go.skimresources.com
+127.0.0.1 cdn.optimizely.com
+127.0.0.1 widget.intercom.io
+127.0.0.1 js.driftt.com
+127.0.0.1 imasdk.googleapis.com
+127.0.0.1 ssl.p.jwpcdn.com
+127.0.0.1 capi.connatix.com
+127.0.0.1 ads.tremorhub.com
+
+#======= Error Trackers =======
+
+# --- Bugsnag
+127.0.0.1 notify.bugsnag.com
+127.0.0.1 sessions.bugsnag.com
+127.0.0.1 api.bugsnag.com
+127.0.0.1 app.bugsnag.com
+
+# --- Sentry
+127.0.0.1 browser.sentry-cdn.com
+127.0.0.1 app.getsentry.com
+
+
+#====== Social Trackers =======
+
+# --- Facebook
+127.0.0.1 pixel.facebook.com
+127.0.0.1 an.facebook.com
+
+# --- Twitter
+127.0.0.1 static.ads-twitter.com
+127.0.0.1 ads-api.twitter.com
+
+# --- LinkedIn
+127.0.0.1 ads.linkedin.com
+127.0.0.1 analytics.pointdrive.linkedin.com
+
+# --- Pinterest
+127.0.0.1 ads.pinterest.com
+127.0.0.1 log.pinterest.com
+127.0.0.1 analytics.pinterest.com
+127.0.0.1 trk.pinterest.com
+127.0.0.1 widgets.pinterest.com
+
+# --- Reddit
+127.0.0.1 events.reddit.com
+127.0.0.1 events.redditmedia.com
+
+# --- YouTube
+127.0.0.1 ads.youtube.com
+
+# --- TikTok
+127.0.0.1 ads-api.tiktok.com
+127.0.0.1 analytics.tiktok.com
+127.0.0.1 ads-sg.tiktok.com
+127.0.0.1 analytics-sg.tiktok.com
+127.0.0.1 business-api.tiktok.com
+127.0.0.1 ads.tiktok.com
+127.0.0.1 log.byteoversea.com
+
+#============ Mix =============
+# --- Yahoo
+127.0.0.1 ads.yahoo.com
+127.0.0.1 analytics.yahoo.com
+127.0.0.1 geo.yahoo.com
+127.0.0.1 udc.yahoo.com
+127.0.0.1 udcm.yahoo.com
+127.0.0.1 advertising.yahoo.com
+127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 partnerads.ysm.yahoo.com
+127.0.0.1 log.fc.yahoo.com
+127.0.0.1 gemini.yahoo.com
+127.0.0.1 adtech.yahooinc.com
+# --- Yandex
+127.0.0.1 extmaps-api.yandex.net
+127.0.0.1 appmetrica.yandex.ru
+127.0.0.1 adfstat.yandex.ru
+127.0.0.1 metrika.yandex.ru
+127.0.0.1 advertising.yandex.ru
+127.0.0.1 offerwall.yandex.net
+127.0.0.1 adfox.yandex.ru
+# --- Unity
+127.0.0.1 auction.unityads.unity3d.com
+127.0.0.1 webview.unityads.unity3d.com
+127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 adserver.unityads.unity3d.com
+
+#============ OEMs ============
+# --- Realme
+127.0.0.1 iot-eu-logser.realme.com
+127.0.0.1 iot-logser.realme.com
+127.0.0.1 bdapi-ads.realmemobile.com
+127.0.0.1 bdapi-in-ads.realmemobile.com
+# --- Xiaomi
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 data.mistat.india.xiaomi.com
+127.0.0.1 data.mistat.rus.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 globalapi.ad.xiaomi.com
+127.0.0.1 tracking.rus.miui.com
+# --- Oppo
+127.0.0.1 adsfs.oppomobile.com
+127.0.0.1 adx.ads.oppomobile.com
+127.0.0.1 ck.ads.oppomobile.com
+127.0.0.1 data.ads.oppomobile.com
+# --- Huawei
+127.0.0.1 metrics.data.hicloud.com
+127.0.0.1 metrics2.data.hicloud.com
+127.0.0.1 grs.hicloud.com
+127.0.0.1 logservice.hicloud.com
+127.0.0.1 logservice1.hicloud.com
+127.0.0.1 logbak.hicloud.com
+# --- OnePlus
+127.0.0.1 click.oneplus.cn
+127.0.0.1 open.oneplus.net
+# --- Samsung
+127.0.0.1 samsungads.com
+127.0.0.1 smetrics.samsung.com
+127.0.0.1 nmetrics.samsung.com
+127.0.0.1 samsung-com.112.2o7.net
+127.0.0.1 analytics-api.samsunghealthcn.com
+# --- Apple
+127.0.0.1 advertising.apple.com
+127.0.0.1 tr.iadsdk.apple.com
+127.0.0.1 iadsdk.apple.com
+127.0.0.1 metrics.icloud.com
+127.0.0.1 metrics.apple.com
+127.0.0.1 metrics.mzstatic.com
+127.0.0.1 api-adservices.apple.com
+127.0.0.1 books-analytics-events.apple.com
+127.0.0.1 weather-analytics-events.apple.com
+127.0.0.1 notes-analytics-events.apple.com
