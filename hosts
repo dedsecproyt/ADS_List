@@ -18,6 +18,7 @@
 127.0.0.1 static.doubleclick.net
 127.0.0.1 m.doubleclick.net
 127.0.0.1 mediavisor.doubleclick.net
+127.0.0.1 pagead.l.doubleclick.net
 
 # --- Adcolony
 127.0.0.1 ads30.adcolony.com
@@ -112,6 +113,7 @@
 127.0.0.1 ssl.p.jwpcdn.com
 127.0.0.1 capi.connatix.com
 127.0.0.1 ads.tremorhub.com
+127.0.0.1 app.adjust.com
 
 #======= Error Trackers =======
 
