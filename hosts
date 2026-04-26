@@ -207,7 +207,6 @@
 ||app.appsflyer.com^
 ||app.adjust.com^
 ||redirector.googlevideo.com^
-||youtubei.googleapis.com^
 
 # Hosts BlockList
 127.0.0.1 analytics.adobe.io
